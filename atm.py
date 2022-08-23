@@ -1,3 +1,5 @@
+print("")
+
 print("................Welcome to abc bank atm.................\n")
 
 
