@@ -53,3 +53,5 @@ if pin == user['pin']:
             print("Please enter a correct value shown")
 else:
     print("Entered wrong pin")
+
+print('.............................THANK YOU FOR BANKING WITH MOJO BANK..............................................')
