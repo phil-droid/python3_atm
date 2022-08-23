@@ -1,6 +1,6 @@
 print("")
 
-print("................Welcome to abc bank atm.................\n")
+print(".......................................Welcome to MOJO bank atm................................................\n")
 
 
 user = {
@@ -54,4 +54,4 @@ if pin == user['pin']:
 else:
     print("Entered wrong pin")
 
-print('.............................THANK YOU FOR BANKING WITH MOJO BANK..............................................')
+print('................................THANK YOU FOR BANKING WITH MOJO BANK..............................................')
